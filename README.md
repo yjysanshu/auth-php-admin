@@ -8,7 +8,7 @@
 
 这是一个简单的权限管理系统，为自己开发小项目使用；顺便贡献出来，为那些做一些小项目的同学方便，直接拿去使用  
 
-demo: [http://permission.yuanjy.com](http://permission.yuanjy.com)
+demo: [http://auth.yuanjy.com](http://auth.yuanjy.com)
 
 ## 使用方式
 
